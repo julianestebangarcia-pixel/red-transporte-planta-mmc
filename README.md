@@ -1,6 +1,6 @@
 # Análisis y optimización de una red interna de transporte en una planta manufacturera
 
-Proyecto final de la asignatura **Métodos y Modelos Computacionales** — Maestría en Ingeniería Eléctrica.
+Examen final de la asignatura **Métodos y Modelos Computacionales** — Maestría en Ingeniería Eléctrica.
 
 **Autor:** Julián Esteban Garcia Castaño
 
